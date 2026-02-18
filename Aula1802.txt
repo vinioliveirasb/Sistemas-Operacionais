@@ -1,30 +1,23 @@
 Aula 1 – Conceitos Básicos de Sistemas Operacionais
 📌 Sistema Operacional
-
 O Sistema Operacional é o software que gerencia o hardware do computador e serve como interface entre o usuário e a máquina.
 
 📌 Execução de Programas
-
 Vários programas executam “simultaneamente” porque o processador alterna rapidamente entre eles (escalonamento), enquanto a memória RAM armazena os programas em execução.
 
 📌 Comunicação entre Programas
-
 Os programas precisam trocar dados para funcionar corretamente. Essa comunicação é feita por meio do Sistema Operacional.
 
 📌 Hierarquia de Memória
-
 Organização da memória no sistema:
 Processador (cache/registradores) → RAM → SSD/HD
 Quanto mais próxima da CPU, mais rápida e menor é a capacidade.
 
 📌 Memória Virtual
-
 Permite usar parte do SSD/HD como extensão da RAM quando a memória principal está cheia.
 
 📌 Dispositivos de Entrada/Saída
-
 O Sistema Operacional gerencia o acesso aos dispositivos, organizando o uso entre os processos em execução.
 
 📌 Sistema de Arquivos
-
 Responsável por organizar e gerenciar o armazenamento de dados, permitindo criar, ler, modificar e excluir arquivos de forma segura.
